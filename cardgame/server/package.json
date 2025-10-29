@@ -1,0 +1,35 @@
+{
+  "name": "leama-milundk-project",
+  "version": "1.0.0",
+  "description": "Ni ska lämna in er kod till projektet här. Behöver ni hjälp med git är ni välkomna att fråga assistenterna.",
+  "repository": {
+    "type": "git",
+    "url": "https://gits-15.sys.kth.se/intnet25/leama-milundk-project.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src",
+    "lint:fix": "eslint src --fix"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+    "express-socket.io-session": "^1.3.5",
+    "readline-sync": "^1.4.10",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^10.1.5",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-prettier": "^5.4.1"
+  }
+}
