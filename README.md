@@ -1,6 +1,7 @@
 # Vänd tia
 
 Simple website for playing the cardgame "Vänd tia" that was made togheter with [LeaMartinelle](https://github.com/LeaMartinelle).
+The website uses Vue for the frontend and Express.js for the backend! Below are some of the rules and limitations we created for the game (written in Swedish).
 
 ## Kommandos
 
